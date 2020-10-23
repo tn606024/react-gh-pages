@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-gh-pages/static/js/main.f2fddbeb.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.f2fddbeb.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.69af1228.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.69af1228.js.map",
+    "static/css/2.4fbc90f8.chunk.css": "/react-gh-pages/static/css/2.4fbc90f8.chunk.css",
+    "static/js/2.e5486969.chunk.js": "/react-gh-pages/static/js/2.e5486969.chunk.js",
+    "static/js/2.e5486969.chunk.js.map": "/react-gh-pages/static/js/2.e5486969.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.d6f1427f2e9415e86e776d718d311528.js": "/react-gh-pages/precache-manifest.d6f1427f2e9415e86e776d718d311528.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/2.4fbc90f8.chunk.css.map": "/react-gh-pages/static/css/2.4fbc90f8.chunk.css.map",
+    "static/js/2.e5486969.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.e5486969.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/react-gh-pages/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69af1228.js",
+    "static/css/2.4fbc90f8.chunk.css",
+    "static/js/2.e5486969.chunk.js",
+    "static/js/main.f2fddbeb.chunk.js"
+  ]
+}
